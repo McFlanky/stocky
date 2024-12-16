@@ -141,3 +141,4 @@
 /home/coletj/workspace/github.com/McFlanky/finshark/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
 /home/coletj/workspace/github.com/McFlanky/finshark/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/coletj/workspace/github.com/McFlanky/finshark/api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/coletj/workspace/github.com/McFlanky/finshark/api/obj/Debug/net8.0/api.sourcelink.json
